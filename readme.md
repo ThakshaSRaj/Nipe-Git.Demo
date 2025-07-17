@@ -15,3 +15,9 @@
 - git status
 - git blame DemoGit.py
 - git log --oneline --graph
+
+## Branching
+- git branch
+- git branch "my-first-branch-is-here"
+- git branch "my-second-branch-is-here"
+- git merge "my-first-branch-is-here"(old branch name)
