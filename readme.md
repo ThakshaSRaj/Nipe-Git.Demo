@@ -8,3 +8,10 @@
 - git add .
 - git git comiit -m "Updated DemoGit.py"
 - git push -u origin master
+
+## session 2
+- git clone https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code.git
+- git log 
+- git status
+- git blame DemoGit.py
+- git log --oneline --graph
